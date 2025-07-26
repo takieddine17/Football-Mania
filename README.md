@@ -31,6 +31,18 @@ Download the latest builds for your platform:
 
 ---
 
+### 🧩 macOS Users – App Won’t Open?
+
+If you see an error like **"The app can't be opened because it is from an unidentified developer"**, follow these steps:
+
+1. Right-click the app and select **Open**
+2. Click **Open** again when the warning dialog appears
+
+Or run this in Terminal to bypass Gatekeeper:
+
+```bash
+xattr -r -d com.apple.quarantine /path/to/YourGame.app
+
 ## Support
 
 Contact me at takieddine19279@gmail.com for any issues you face or support. 
