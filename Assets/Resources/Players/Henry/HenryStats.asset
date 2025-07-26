@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3e5a07a95e1b40c7a7347b2dc75d037, type: 3}
+  m_Name: HenryStats
+  m_EditorClassIdentifier: 
+  playerName: 3
+  lobbySprite: {fileID: 4419381094265972470, guid: a854073cd5d1144eeb869642c0d80c4b, type: 3}
+  matchSprite: {fileID: -3092622200886332798, guid: 76e8ba6a57e014b949268c3561dda47b, type: 3}
+  dribbling: 94
+  shooting: 93
+  pace: 95
+  prefab: {fileID: 5621065423410256655, guid: 58ad30b3cd24a40dcaf0a0067e8df73e, type: 3}

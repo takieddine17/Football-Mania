@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3e5a07a95e1b40c7a7347b2dc75d037, type: 3}
+  m_Name: HazardStats
+  m_EditorClassIdentifier: 
+  playerName: 2
+  lobbySprite: {fileID: 2446174851627425200, guid: eea48ea2d39b34a3ca74d7852fbe30d7, type: 3}
+  matchSprite: {fileID: -8895730316036946104, guid: 1ba9cb4d812db4e9a8fe034ab474c3c0, type: 3}
+  dribbling: 95
+  shooting: 86
+  pace: 89
+  prefab: {fileID: 5621065423410256655, guid: 758925a9ca2ab4d0f9ef741e3a20de5f, type: 3}

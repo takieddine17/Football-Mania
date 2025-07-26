@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3e5a07a95e1b40c7a7347b2dc75d037, type: 3}
+  m_Name: BaleStats
+  m_EditorClassIdentifier: 
+  playerName: 9
+  lobbySprite: {fileID: -8826016731528419050, guid: a59dc6bca1f2c4f32a7a4755ce30feb3, type: 3}
+  matchSprite: {fileID: -4499694463230046056, guid: 88aa913b6dda842acb4c5d5544471d26, type: 3}
+  dribbling: 90
+  shooting: 88
+  pace: 97
+  prefab: {fileID: 5621065423410256655, guid: b8a6fe3b3d5c84827aecb248ac221dd9, type: 3}

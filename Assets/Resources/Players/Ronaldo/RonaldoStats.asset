@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3e5a07a95e1b40c7a7347b2dc75d037, type: 3}
+  m_Name: RonaldoStats
+  m_EditorClassIdentifier: 
+  playerName: 7
+  lobbySprite: {fileID: -5015289793874185576, guid: 1e3d2b52bd95047e3a38b3f282650579, type: 3}
+  matchSprite: {fileID: -7293013115953481130, guid: 0528608e2d445465da151a8ee078af78, type: 3}
+  dribbling: 99
+  shooting: 99
+  pace: 99
+  prefab: {fileID: 5621065423410256655, guid: e43ae32b055884d7b93d375b22e8b024, type: 3}
