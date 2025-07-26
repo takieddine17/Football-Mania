@@ -1,0 +1,19 @@
+Adding elements from Unity
+--------------------------------------------------
+
+Adding elements from Library/PackageCache/com.unity.services.qos@07cacd3f2542/Runtime/PrivacyInfo.xcprivacy
+	NSPrivacyCollectedDataTypes:
+		0:
+			NSPrivacyCollectedDataType:
+				NSPrivacyCollectedDataTypeCoarseLocation
+			NSPrivacyCollectedDataTypeLinked:
+				True
+			NSPrivacyCollectedDataTypePurposes:
+				0:
+					NSPrivacyCollectedDataTypePurposeAppFunctionality
+			NSPrivacyCollectedDataTypeTracking:
+				False
+
+	NSPrivacyTracking:
+		False
+
