@@ -43,6 +43,23 @@ Or run this in Terminal to bypass Gatekeeper:
 ```bash
 xattr -r -d com.apple.quarantine /path/to/YourGame.app
 
+---
+
+### 🛡️ Windows Users – SmartScreen Warning?
+
+When running the game for the first time, Windows Defender SmartScreen might show a warning:
+
+> “Windows protected your PC”
+
+This happens because the game is new and not signed. To run it safely:
+
+1. Click **“More info”**
+2. Click **“Run anyway”**
+
+This will launch the game. It’s safe to run if you downloaded it from this official GitHub release.
+
+---
+
 ## Support
 
 Contact me at takieddine19279@gmail.com for any issues you face or support. 
