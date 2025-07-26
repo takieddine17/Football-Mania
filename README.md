@@ -4,7 +4,7 @@
 
 This is a fast-paced, fun 2D multiplayer football game developed using Unity. Players can connect online, select their characters with unique stats, and compete in exciting matches.
 
-### Key Features
+### 🔑 Key Features
 - Online multiplayer using Unity Relay and Netcode for GameObjects  
 - Character selection with unique stats (pace, shooting, dribbling)  
 - Real-time ping meter and latency handling  
