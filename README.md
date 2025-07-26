@@ -17,8 +17,8 @@ This is a fast-paced, fun 2D multiplayer football game developed using Unity. Pl
 
 Download the latest builds for your platform:
 
-- **Windows (64-bit):** [Download here](https://your-download-link-windows.com)
-- **macOS (64-bit):** [Download here](https://your-download-link-mac.com)
+- **Windows (64-bit):** [Download here](https://github.com/takieddine17/Football-Mania/releases/download/Football-Mania(Windows)/Football-Mania.exe)
+- **macOS (64-bit):** [Download here](https://github.com/takieddine17/Football-Mania/releases/download/Football-Mania(MacOS)/Football.Mania.app.zip)
 
 ---
 
