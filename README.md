@@ -42,6 +42,7 @@ Or run this in Terminal to bypass Gatekeeper:
 
 ```bash
 xattr -r -d com.apple.quarantine /path/to/YourGame.app
+```
 
 ---
 
